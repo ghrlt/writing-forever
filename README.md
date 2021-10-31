@@ -1,6 +1,6 @@
 # Writing Forever...
 
-This program will let you being displayed as writing on Instagram for ever!
+This program will let you being displayed as typing on Instagram, for ever!
 
 ## How?
 The script is Selenium based and will mimic a user going to dm, and start writing..
